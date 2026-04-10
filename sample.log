@@ -1,0 +1,3 @@
+2026-04-01 10:00:00 INFO Server started
+2026-04-01 10:05:00 ERROR Database connection failed
+2026-04-01 10:10:00 WARNING High memory usage
